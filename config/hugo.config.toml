@@ -1,0 +1,47 @@
+baseurl = "https://nicodoggie.github.io/language-orferithri"
+languageCode = "en-us"
+title = "Orferitheri Language"
+archetypeDir = "hugo/archetypes"
+contentDir = "hugo/content"
+layoutDir = "hugo/layouts"
+dataDir = "hugo/data"
+themesDir = "hugo/themes"
+publishDir = "public"
+disqusShortname = ""
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 10
+theme = "hugo-steam-theme"
+
+[params]
+	title = "Orferithri Language"
+	subtitle = "Language of the Orferi People"
+	copyright = "Released under Creative Commons [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
+
+	# You can choose between green, orange, red and blue.
+	themecolor = "green"
+
+	# Link custom assets relative to /static
+	favicon   = "favicon.ico"
+	customCSS = ["leipzig/dist/leipzig.min.css","styles.css"]
+	customJS  = ["leipzig/dist/leipzig.min.js","scripts.js"]
+
+	name = "Nico Suarez"
+	description = "Notes, grammar and culture of the Orferi People"
+	
+	# Link your social networks (optional)
+	location = ""
+	twitter = "nicodoggie"
+	linkedin = ""
+	googleplus = ""
+	facebook = "nicodoggie"
+	instagram = ""
+	github = "nicodoggie"
+	gitlab = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
