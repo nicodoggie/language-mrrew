@@ -54,8 +54,43 @@ frontness and backness.
  - /ɘ/ close-mid central unrounded
  - /ɤ/ close-mid back unrounded
 
-I realize this is ALL THE VOWELS™, let's see if we either do some vowel harmony thing, or just
+I realize this is ALL THE VOWELS™, but let's see if we either do some vowel harmony thing, or just
 trim a lot of these in allophony.
+
+### Diphthongs
+
+### Triphthongs
+
+### N-phthongs
+
+## Syllables
+
+Syllable shapes of Mrrew are constrained to fit a certain sound I want (which is, naturalistic cat sounds).
+
+All syllables must have onsets, while codas are optional. There can be many such nasals realized at a time
+within a complex cluster.
+
+These consonant clusters are allowable in word-initial onsets:
+
+ * [Nasal]<sup>+</sup>[Approximant]<sup>*</sup>
+ * [Nasal]<sup>+</sup>[Approximant]<sup>+</sup>[Lateral]<sup>*</sup>
+ * [Nasal]<sup>+</sup>[Trill]<sup>+</sup>
+ * [Trill]<sup>+</sup>[Approximant]<sup>*</sup>
+ 
+These consonant clusters are allowable in word-final codas:
+
+ * [Lateral]<sup>+</sup>
+ * [Approximant]<sup>+</sup>
+ * ([Approximant]<sup>+</sup>[Lateral]<sup>+</sup>)<sup>*</sup>
+
+These consonant clusters are allowable elsewhere:
+
+ * [Approximant]<sup>+</sup>
+ 
+These consonants have a null nucleus.
+ * [Fricative]<sup>+</sup>
+ 
+Vowels 
 
 ## Consonants
 
@@ -65,6 +100,14 @@ trim a lot of these in allophony.
 | Nasal               | m        | n        | ɲ            | ɳ         |         | ŋ     | ɴ      |
 | Trill               |          |          |              |           |         |       | ʀ      |
 | Tap/Flap            |          |          |              |           |         |       |        |
-| Fricative           |          |          |              |           |         |       | χ ʁ    |
-| Approximant         |          |          | ɹ            | ɻ         | j       |  ɰ    |        |
-| Lateral Approximant |          |          |              | ɭ         | ʎ       |   ʟ   |        |
+| Fricative           |          |          |              |           |         | x     |        |
+| Approximant         |          |          | ɹ            | ɻ         | j       | ɰ     |        |
+| Lateral Approximant |          |          |              | ɭ         | ʎ       | ʟ     |        |
+
+Here we have all the consonants. Here we also have ALL THE NASALS™, but I am thinking of making the 
+alveolar, postalveolar and retroflex into allophones too, maybe.
+
+## Suprasegmentals
+
+### Tone
+
