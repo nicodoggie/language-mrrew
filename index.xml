@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mrrew Language</title>
+    <link>https://nicodoggie.github.io/language-mrrew/</link>
+    <description>Recent content on Mrrew Language</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under Creative Commons [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://nicodoggie.github.io/language-mrrew/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Construction Notes</title>
+      <link>https://nicodoggie.github.io/language-mrrew/construction-notes/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicodoggie.github.io/language-mrrew/construction-notes/</guid>
+      <description>Introduction OK, so this language sketch is sort of jokey. I liked the idea of making a catlang, so I started to think about what that would sound like. So I decided on a few things:
+ All vowels are realized with nasalization Most consonants are nasals approximants are nasalized with a very few fricatives and one or two stops The language has register and contour tones Mrrew has registers/grammatical features that use or distinguish between:  creaky voice   This does not aim to be a highly-naturalistic human language, but should at least sound as if you can imagine everyday house-cats actually speaking this when they happen to knock down that vase on your table.</description>
+    </item>
+    
+    <item>
+      <title>Mrrew Language</title>
+      <link>https://nicodoggie.github.io/language-mrrew/reference-grammar/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicodoggie.github.io/language-mrrew/reference-grammar/</guid>
+      <description> Introduction Phonology     Bilabial Alveolar Postalveolar Velar Uvular     Stop     q   Nasal m n ɲ ŋ ɴ   Trill     ʀ   Tap/Flap        Fricative        Approximant        Lateral Approximant         </description>
+    </item>
+    
+  </channel>
+</rss>
