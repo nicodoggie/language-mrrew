@@ -1,6 +1,6 @@
-baseurl = "https://nicodoggie.github.io/language-orferithri"
+baseurl = "https://nicodoggie.github.io/language-mrrew"
 languageCode = "en-us"
-title = "Orferitheri Language"
+title = "Mrrew Language"
 archetypeDir = "hugo/archetypes"
 contentDir = "hugo/content"
 layoutDir = "hugo/layouts"
@@ -15,8 +15,8 @@ paginate = 10
 theme = "hugo-steam-theme"
 
 [params]
-	title = "Orferithri Language"
-	subtitle = "Language of the Orferi People"
+	title = "Mrrew Language"
+	subtitle = "Language of the Catfolk"
 	copyright = "Released under Creative Commons [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 	# You can choose between green, orange, red and blue.

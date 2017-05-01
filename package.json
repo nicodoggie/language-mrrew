@@ -1,7 +1,7 @@
 {
-  "name": "language-orferithri",
+  "name": "language-mrrew",
   "version": "0.0.1",
-  "description": "Website for the documentation of the Orferithri language",
+  "description": "Website for the documentation of the Mrrew language",
   "main": "./src/js/main.js",
   "scripts": {
     "build": "hugo --config=config/hugo.config.toml; webpack --config=config/webpack.config.js; hugo server --config=config/hugo.config.toml;",
