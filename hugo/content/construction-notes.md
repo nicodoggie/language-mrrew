@@ -28,40 +28,26 @@ Fricatives seems to be used for the "annoyed" or "angry" register.
 
 ## Vowels
 
-I don't have any sort of data, but I conclude that cats don't have rounded vowels. They do have a 
-lot of unrounded vowels to compensate though, with varying frequency. Also, it is common for cats
-to have N-phthongs, or strings of connected, gliding vowel sounds.
+Ok, since my last edit here, I've reduced my vowel inventory to these nine. Still keeping to the
+notion that cats don't have rounding to them, and probably not do some harmony, because I don't think
+it will sound cat-like enough.
 
-The vowel sounds also seem to be constrained to from close-mid to open, with the full range of 
-frontness and backness. 
-
- - /a/ open front unrounded
- - /ä/ open central unrounded
- - /ɑ/ open back unrounded
- 
- - /æ/ near-open front unrounded
- - /ɐ/ near-open central unrounded
+ - /i/ close front unrounded
+ - /ɨ/ close central unrounded
+ - /ɯ/ close back unrounded
  
  - /ɛ/ open-mid front unrounded
  - /ɜ/ open-mid central unrounded
  - /ʌ/ open-mid back unrounded
  
- - /e̞/ mid front unrounded 
- - /ə/ mid central unrounded
- - /ɤ̞/ mid back unrounded
-
- - /e/ close-mid front unrounded
- - /ɘ/ close-mid central unrounded
- - /ɤ/ close-mid back unrounded
-
-I realize this is ALL THE VOWELS™, but let's see if we either do some vowel harmony thing, or just
-trim a lot of these in allophony.
+ - /a/ open front unrounded
+ - /ä/ open central unrounded
+ - /ɑ/ open back unrounded
+ 
 
 ### Diphthongs
 
 ### Triphthongs
-
-### N-phthongs
 
 ## Syllables
 
@@ -111,3 +97,36 @@ alveolar, postalveolar and retroflex into allophones too, maybe.
 
 ### Tone
 
+Tone in mrrew actually encodes meaning depending on where and how it is used.
+
+When used word-initially in verbs, tone encodes the following moods:
+ - Low tone - Prohibitive 
+ - Falling tone - Volitive
+ - Rising tone - Imperative
+ - High tone - Optative
+
+# Verbs
+
+I want to have the verbs basically as agglutinating here. Some suffixes:
+S
+ʀ- imperative
+# Nouns
+
+# Pronouns
+Mrrew is prodrop. 
+
+# Vocabulary
+
+food
+
+lackinɡ food (hungry)
+
+eat
+
+# Translations
+
+Feed me!
+ʀːːaːɰ 
+
+I'm hungry!
+ɹːeːɰ 
